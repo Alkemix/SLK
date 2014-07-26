@@ -9,6 +9,6 @@ I think (in the future) to make 3 versions of SLK:
 
 2) SLK-STD (STANDARD): SLK BASIC based but with adding of cherry-picks (the essential). Target: stability and battery friendly. [Standard CPU frequencies and No undervolts by It !] 
 
-3) SLK-EXT (EXTENDED): SLK STD based but with adding of cherry-picks (experimental also). Target: more speed and smoothness, so It could be more unpredictable, unstable and probably little battery friendly. [No standard CPU frequencies and Undervolts are possible, etc... ; here... everything will be possible !]  
+3) SLK-EXT (EXTENDED): SLK STD based but with adding of cherry-picks (experimental also). Target: more speed and smoothness, so It could be more unpredictable, unstable and probably little battery friendly. [OC possible (no standard CPU frequencies) and Undervolts are possible, etc... ; here... everything will be possible !]  
 
 
